@@ -1,0 +1,13 @@
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.exe
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.deps.json
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.runtimeconfig.json
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.runtimeconfig.dev.json
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.dll
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\bin\Debug\netcoreapp3.1\CoversorDolarEEuro062020.pdb
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.csprojAssemblyReference.cache
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.AssemblyInfoInputs.cache
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.AssemblyInfo.cs
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.dll
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.pdb
+C:\Users\Murilo\Documents\Projetos\CoversorDolarEEuro062020\obj\Debug\netcoreapp3.1\CoversorDolarEEuro062020.genruntimeconfig.cache
